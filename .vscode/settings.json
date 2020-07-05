@@ -1,0 +1,8 @@
+{
+  "rust-client.engine": "rust-analyzer",
+  // "rust-analyzer.trace.server": "verbose",
+  // "rust-client.logToFile": true,
+  "rust-client.trace.server": "verbose",
+  "problems.decorations.enabled": false,
+  "rust.show_warnings": false
+}
